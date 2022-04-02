@@ -6,6 +6,7 @@ import {Avatar} from "@material-ui/core"
 import Search from '../components/Search'
 
 function Home() {
+  //Home Page
   return (
     <div className='home'>
         <div className='home__header' >
